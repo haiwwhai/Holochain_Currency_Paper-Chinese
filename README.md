@@ -1,6 +1,4 @@
-# Holo_Currency_Paper-Chinese
-Holo火龙果Currency Paper 中文--来自RuoRan若然社区
-Holo：全球规模和稳定价值的加密货币基础设施
+# Holo：全球规模和稳定价值的加密货币基础设施
 Arthur Brock     Eric Harris-Braun
 
 翻译：若然社区（公众号wechat public：ruoranshequ）
